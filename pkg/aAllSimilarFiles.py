@@ -61,6 +61,5 @@ def save_add_dcm(name: str):
         pickle.dump(path_files, fp)
 
 
-save_add_dcm("FirstDicoms") # 18321
+save_add_dcm("FirstDicoms")  # 18321
 # save_add_dcm("AllDicoms") # 309251
-

@@ -169,3 +169,15 @@ script-upgrade:
 
 one:
 		$(PY) $(SRC)/aAllSimilarFiles.py
+
+two:
+		$(PY) $(SRC)/bReadDicomMeta.py
+
+three:
+		$(PY) $(SRC)/c12T2Stats.py
+
+four:
+		$(PY) $(SRC)/c2T2StatsNumber.py
+
+five:
+		$(PY) $(SRC)/dCopy.py

@@ -1,0 +1,17 @@
+{
+  "t2_tse_sag": 370,
+  "t2_tse_tra": 427,
+  "t2_tse_cor": 348,
+  "t2_localizer": 124,
+  "t2_loc sag": 122,
+  "t2_localizer_prostate": 23,
+  "t2_localizer_sag": 22,
+  "t2_tse_sag_S3_ND": 1,
+  "t2_tse_tra_S5_ND": 1,
+  "t2_tse_tra_exacte_copy_diffusie": 1,
+  "t2_tse_tra_Grappa3": 1,
+  "t2_tse_tra_320_p2": 1,
+  "t2_tse_sag_320_p2": 1,
+  "t2_tse_cor_320_p2": 1,
+  "t2_loc tra": 1
+}
