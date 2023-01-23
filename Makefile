@@ -166,3 +166,6 @@ unittest:
 
 script-upgrade:
 		./scripts/upgrade_dependencies.sh
+
+one:
+		$(PY) $(SRC)/aAllSimilarFiles.py
